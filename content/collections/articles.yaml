@@ -1,4 +1,5 @@
-title: Users
+title: Articles
+template: articles/show
 revisions: false
 date_behavior:
   past: public
